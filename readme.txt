@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+从file中的txt文件读取数据
